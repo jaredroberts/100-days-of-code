@@ -10,8 +10,10 @@
 
 # 100 Days Of Code - Log
 
-### Day 0: February 8, 2018
+### Day 1: February 9, 2018
 
 **Today's Progress**: Played with some Python and HTML code. Downloaded Python Imaging Library (PIL)
 
 **Thoughts:** I've forgot everything about python..
+
+**Link to work:** [Day 1](day1.py)
